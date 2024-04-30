@@ -14,3 +14,5 @@ esfuerzo VARCHAR(45),
 descripcion VARCHAR(45),
 PRIMARY KEY (id_prediccion)
 );
+
+INSERT INTO prediccion (nombre,donde,tipo,duracion,km,dificultad,esfuerzo,descripcion) VALUES ("Pico Morenzon","Sierra de Gredos
